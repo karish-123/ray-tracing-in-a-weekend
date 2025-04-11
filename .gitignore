@@ -1,0 +1,11 @@
+# Ignore build directories and output files
+build/
+*.ppm
+*.o
+*.out
+*.exe
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+compile_commands.json
