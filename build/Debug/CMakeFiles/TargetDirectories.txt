@@ -1,0 +1,3 @@
+/Users/karishniikuber/Desktop/ray_tracing_in_one_weekend/build/Debug/CMakeFiles/inOneWeekend.dir
+/Users/karishniikuber/Desktop/ray_tracing_in_one_weekend/build/Debug/CMakeFiles/edit_cache.dir
+/Users/karishniikuber/Desktop/ray_tracing_in_one_weekend/build/Debug/CMakeFiles/rebuild_cache.dir
